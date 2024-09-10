@@ -1,0 +1,3 @@
+[submodule "recipes/themese/npqhugo"]
+	path = recipes/themese/npqhugo
+	url = https://github.com/saadjsct/npqhugo
