@@ -1,3 +1,6 @@
 [submodule "recipes/themese/npqhugo"]
 	path = recipes/themese/npqhugo
 	url = https://github.com/saadjsct/npqhugo
+[submodule "recipes/themes/npqhugo"]
+	path = recipes/themes/npqhugo
+	url = https://github.com/saadjsct/npqhugo
