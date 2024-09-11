@@ -1,2 +1,3 @@
 recipes/public
 recipes/.hugo_build.lock
+recipes/resources/_gen
