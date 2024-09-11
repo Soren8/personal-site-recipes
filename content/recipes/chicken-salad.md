@@ -1,7 +1,7 @@
 ---
-title: 'Chicken Salad'
-date: 2024-09-10T17:20:19-04:00
-description: 'Aunt Elizabeth's chicken salad'
+title: "Chicken Salad"
+date: 2024-09-10
+description: "Aunt Elizabeth's chicken salad"
 tags: ['chicken', 'salad']
 ---
 
