@@ -1,6 +1,3 @@
-[submodule "recipes/themese/npqhugo"]
-	path = recipes/themese/npqhugo
-	url = https://github.com/saadjsct/npqhugo
-[submodule "recipes/themes/npqhugo"]
-	path = recipes/themes/npqhugo
-	url = https://github.com/saadjsct/npqhugo
+[submodule "recipes/themes/lightbi-hugo"]
+	path = recipes/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo

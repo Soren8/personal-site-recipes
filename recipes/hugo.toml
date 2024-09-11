@@ -1,4 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'npqhugo'
+title = 'Recipes'
+theme = 'lightbi-hugo'
+
+[[menu.main]]
+  identifier = "recipes"
+  name = "Recipes"
+  url = "/recipes/"
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
