@@ -1,7 +1,9 @@
-+++
-title = 'Chicken Salad'
-date = 2024-09-10T17:20:19-04:00
-+++
+---
+title: 'Chicken Salad'
+date: 2024-09-10T17:20:19-04:00
+description: 'Aunt Elizabeth's chicken salad'
+tags: ['chicken', 'salad']
+---
 
 Ingredients:
   - 2 large boneless, skinless chicken breasts cooked in lightly salted water then chilled in the fridge and diced, about 4 cups (for the best texture, avoid canned chicken)
