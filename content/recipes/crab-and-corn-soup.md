@@ -7,7 +7,7 @@ tags: ['soup', 'bulk', 'freezer']
 
 Ingredients:
   - 2 lbs crab meat (also may use crawfish or shrimp if you prefer)
-  - 2 family size cans Campbell's cream of mushroom soup
+  - 2 family size cans (~45oz) Campbell's cream of mushroom soup
   - 2 cans cream corn
   - 1 large onion (chopped)
   - 2 stalks celery (chopped)
