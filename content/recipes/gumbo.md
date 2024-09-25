@@ -11,7 +11,7 @@ tags: ['gumbo', 'cajun', 'sausage', 'chicken']
 - Bell pepper: 1 large, finely chopped (about 2 cups)
 - Onion: 1 large, finely chopped (about 2 cups)
 - Celery: 3-4 stalks, finely chopped (about 1 cup)
-- Smoked sausage: 1 lb, sliced
+- Smoked sausage: 2 lb, sliced
 - Cajun seasoning: 1 tablespoon
 - Salt: 1 teaspoon
 - Oil: 1 cup
