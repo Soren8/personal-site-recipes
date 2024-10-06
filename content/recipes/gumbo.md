@@ -2,7 +2,7 @@
 title: "Gumbo"
 date: 2024-09-14
 description: "Traditional Cajun Gumbo with Chicken and Sausage"
-tags: ['gumbo', 'cajun', 'sausage', 'chicken']
+tags: ['gumbo', 'cajun', 'sausage', 'chicken', 'bulk', 'freezer']
 ---
 
 ## Ingredients:
@@ -18,16 +18,37 @@ tags: ['gumbo', 'cajun', 'sausage', 'chicken']
 - Flour: 1 cup
 - Okra: 2 cups, sliced (optional)
 
-## Instructions:
+## **Instructions:**
 
-1. Start by making stock from the whole chicken and boiling it down to a rich broth.
-2. Debone the cooked chicken and add it back into the pot.
-3. Add the trinity (bell pepper, onion, and celery) to the pot and cook until they're broken down.
-4. Add smoked sausage to the pot.
-5. Season with Cajun seasoning and salt.
-6. Make a roux by heating oil in a pan over medium heat. Gradually add flour, stirring continuously, until the mixture reaches a shade darker than peanut butter or a few shades lighter than Nutella (approximately 45 minutes).
-7. Add the roux to the gumbo pot and stir well.
-8. Continue cooking for another couple of hours, adding okra 30 minutes before serving if desired.
+1. **Prepare Stock and Chicken:**
+   - Boil the whole chicken to make a rich stock.
+   - Debone the chicken and set the meat aside. Keep the stock warm.
+2. **Brown Sausage and Vegetables:**
+   - Brown the sliced sausage and sauté bell pepper, onion, and celery in a large pot with oil.
+   - **Note:** Avoid overcrowding the pot to ensure proper browning.
+3. **Deglaze the Pot:**
+   - Add ½ cup warm chicken stock and scrape up browned bits. Simmer for 1 minute.
+4. **Make the Roux:**
+   - Add remaining oil and flour to the pot.
+   - Cook, stirring constantly, until the roux is dark brown (about 20-30 minutes).
+5. **Combine with Stock:**
+   - Gradually add the rest of the warm stock to the roux, stirring continuously to prevent lumps.
+6. **Add Meats and Seasonings:**
+   - Return the deboned chicken and browned sausage to the pot.
+   - Stir in Cajun seasoning and salt.
+7. **Add Okra (Optional):**
+   - Add sliced okra for natural thickening and extra flavor.
+8. **Simmer:**
+   - Let the gumbo simmer gently for 1-2 hours, stirring occasionally and skimming off excess oil.
+9. **Final Adjustments:**
+   - Adjust seasoning with more Cajun seasoning or salt if needed.
+   - Modify consistency by adding more stock or simmering longer.
+10. **Serve:**
+    - Serve hot over cooked white rice.
+    - Garnish with chopped green onions or parsley if desired. Offer hot sauce on the side.
 
-### Note:
-Be careful not to burn the roux during the cooking process! Continuous stirring is necessary to achieve the right color and flavor.
+## **Tips:**
+
+- **Roux:** Stir constantly to prevent burning.
+- **Browning:** Avoid overcrowding the pot for optimal caramelization.
+- **Consistency:** Maintain a gentle simmer to keep the sauce stable.
